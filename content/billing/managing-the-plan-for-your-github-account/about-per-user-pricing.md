@@ -45,8 +45,6 @@ In addition to licensed seats, your bill may include other charges, such as {% d
 
 ## People that consume a license
 
-{% data reusables.enterprise-managed.repo-collaborators-note %}
-
 {% ifversion fpt %}
 
 {% data variables.product.company_short %} bills for the following people:
